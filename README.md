@@ -16,10 +16,13 @@ WE WILL FIND IN THE FOLDER RESULTS EVERYTHING WE ANALYZE
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/dg8HVR/3.png" alt="3" border="0"></a>
 
 ------------------------------------------------------------------------------------------
+
+WE WILL SEE THAT THE RESULTS ARE STORED IN TXT FILES
 <a href="https://ibb.co/hPcNx6"><img src="https://preview.ibb.co/csqxVR/4.png" alt="4" border="0"></a>
 
 ------------------------------------------------------------------------------------------
 
+SO EASY AND QUICKLY WE WILL HAVE PASSWORDS THANKS TO LAZAGNE
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/cL5sx6/5.png" alt="5" border="0"></a>
 ------------------------------------------------------------------------------------------
 
