@@ -1,6 +1,7 @@
 # SysVdv1
  This is a basic script that arose from the loss of a user's passwords, run the LaZagne tool to recover them but it occurred to me to automate that tool and some more to save time, the results are stored in a txt in the results folder.
  
+ YOU WILL FIND THE SCRIPT AND THE TOOLS IN THE FILE SysVdv1.txt
  ________________________________________________________________________________________
  
  NOTE: THE LAST VERSION OF WINDOWS DEFENDER AND OTHER FREE ANTIVIRUSES ALLOW TO USE THE TOOL WITHOUT BEING DETECTED. IF THE PC WHERE THE ANALYSIS IS TO BE CARRIED OUT HAS LICENSED ANTIVITUS, THE FOLLOWING STEPS MUST BE FOLLOWED:
