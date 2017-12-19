@@ -1,0 +1,2 @@
+ 
+This folder must be hosted in the root of the Windows system  :)
