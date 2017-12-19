@@ -6,9 +6,13 @@
 <a href="https://ibb.co/je2rPm"><img src="https://preview.ibb.co/bBV0H6/1.png" alt="1" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a><br />
 
 ------------------------------------------------------------------------------------------
+
+ONLY BY EXECUTING THE SCRIPT AND SELECTING OPTION 3 WE WILL HAVE ALL PASSWORDS STORED ON THE PC
 <a href="https://ibb.co/mS4rqR"><img src="https://preview.ibb.co/eFyvH6/2.png" alt="2" border="0"></a>
 
 ------------------------------------------------------------------------------------------
+
+WE WILL FIND IN THE FOLDER RESULTS EVERYTHING WE ANALYZE
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/dg8HVR/3.png" alt="3" border="0"></a>
 
 ------------------------------------------------------------------------------------------
